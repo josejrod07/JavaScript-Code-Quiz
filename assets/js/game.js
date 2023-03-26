@@ -83,7 +83,7 @@ function startTimer(){
         if (timerCount == 0){
             clearInterval(timer);
             localStorage.setItem('mostRecentScore', failure);
-            return window.location.assign('/end.html');
+            return window.location.assign('./end.html');
         }
     }, 1000);
 }
@@ -95,7 +95,7 @@ the maximum amount of questions, THEN store the most recent score in local stora
     if (availableQ.length === 0 || questionCount > MAX_QUESTIONS){
         localStorage.setItem('mostRecentScore', score);
 
-        return window.location.assign('/end.html');
+        return window.location.assign('./end.html');
     }
 
     questionCount++;
