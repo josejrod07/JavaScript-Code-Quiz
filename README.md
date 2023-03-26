@@ -10,7 +10,7 @@ This is a web application for a timed coding quiz with multiple-choice questions
 - [License](#license)
 
 ## Installation
-1. Clone the repository: git clone 
+1. Clone the repository: git clone https://github.com/josejrod07/JavaScript-Code-Quiz.git
 2. Open index.html in your web browser.
 
 ## Usage
