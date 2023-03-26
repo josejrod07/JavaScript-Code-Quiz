@@ -31,3 +31,14 @@ This is a web application for a timed coding quiz with multiple-choice questions
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Screenshots
+- Home Page
+![image](https://user-images.githubusercontent.com/124190132/227804171-93e9da2b-bba3-42cf-9ef8-5d5058d97ad7.png)
+- Quiz Page
+![image](https://user-images.githubusercontent.com/124190132/227804198-91d781c4-812b-4d0d-976b-904b89ae303e.png)
+- End Page
+![image](https://user-images.githubusercontent.com/124190132/227804238-17d050a3-7640-447a-8512-6baa4344df8b.png)]
+High Scores Page
+![image](https://user-images.githubusercontent.com/124190132/227804260-b9ca4d8f-f911-47b0-b416-268212d5b3b6.png)
+
