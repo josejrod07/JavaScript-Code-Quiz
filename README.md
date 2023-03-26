@@ -38,7 +38,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Quiz Page
 ![image](https://user-images.githubusercontent.com/124190132/227804198-91d781c4-812b-4d0d-976b-904b89ae303e.png)
 - End Page
-![image](https://user-images.githubusercontent.com/124190132/227804238-17d050a3-7640-447a-8512-6baa4344df8b.png)]
+![image](https://user-images.githubusercontent.com/124190132/227804238-17d050a3-7640-447a-8512-6baa4344df8b.png)
 - High Scores Page
 ![image](https://user-images.githubusercontent.com/124190132/227804260-b9ca4d8f-f911-47b0-b416-268212d5b3b6.png)
 
